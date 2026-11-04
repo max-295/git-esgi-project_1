@@ -1,0 +1,6 @@
+# Commentaire
+#ignorer extension de fichier
+*.mp4
+#ignorer dossier / repertoire
+/assets/video 
+!/assets/video/miniature.jpeg
